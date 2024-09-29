@@ -1,0 +1,15 @@
+Question 1:
+What does the cells in the dynamic programming table represent?
+a) The cells represent the results of the given subproblems
+b) The cells represent average of the final solution
+
+Question 2:
+Is it true - in the main - that dynamic programming is faster than brute-force approach?
+a) True
+b) False
+
+Question 3:
+What is the basic concept of dynamic programming as far as extra memory usage is concerned?
+a) Dynamic programming does not necessarily use extra memory
+b) Dynamic programming usually uses 0(1) constant additional memory
+c) Dynamic programming uses extra memory (approximately NxN additional memory) - it can reduce the running time complexity of algorithms by using additional memory (common trade-off in computer science)
