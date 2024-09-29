@@ -1,0 +1,17 @@
+Question 1: 
+What is the main problem with backtracking algorithms?
+a) The main problem is that it is not clean code - hard to understand and to debug
+b) The main problem is that most of the approaches still have exponential running times - not appropriate for real-world applications because they are very slow
+c) The main problem is that it uses head-recursion
+
+Question 2:
+What is the main idea behind meta-heuristics?
+a) It tries to find a good guess and not the exact solution - but at least the algorithm is fast
+b) It tries to find the exact solution with parallel computing
+c) It does not use recursion so it is faster
+
+Question 3:
+Select the meta-heuristic approach!
+a) Depth-first search
+b) Genetic algorithms
+c) Backtracking
