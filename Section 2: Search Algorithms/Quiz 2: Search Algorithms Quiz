@@ -1,0 +1,14 @@
+Question 1:
+What is the running time complexity of linear search?
+a) O(N)
+b) O(logN)
+
+Question 2:
+What is the running time complexity of binary search?
+a) O(N)
+b) O(logN)
+
+Question 3:
+Which of the following statements is TRUE?
+a) Linear search can be used with both sorted and unsorted arrays but binary search can be used with sorted exclusively.
+b) Binary search can be used with both sorted and unsorted arrays but linear search can be used with sorted exclusively.
