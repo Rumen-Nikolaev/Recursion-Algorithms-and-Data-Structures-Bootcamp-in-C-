@@ -1,15 +1,12 @@
-Question 1:
+Въпрос 1:
+Какви променливи се съхраняват в паметта на стека (стек за повиквания)?
+а) Обекти
+б) Локални променливи и извиквания на функции
 
-What variables are stored on the stack memory (call-stack)?
-
-a) Objects
-b) Local variables and function calls
-
-Question 2:
-Heap memory is larger in size than stack memory.
-
-a) True
-b) False
+Въпрос 2:
+Heap паметта е по-голяма по размер от стековата памет.
+а) Вярно
+б) Невярно
 
 
 
