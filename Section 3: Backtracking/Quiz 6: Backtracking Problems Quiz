@@ -1,17 +1,17 @@
-Question 1: 
-What is the main problem with backtracking algorithms?
-a) The main problem is that it is not clean code - hard to understand and to debug
-b) The main problem is that most of the approaches still have exponential running times - not appropriate for real-world applications because they are very slow
-c) The main problem is that it uses head-recursion
+Въпрос 1:
+Какъв е основният проблем с алгоритмите за обратно проследяване?
+a) Основният проблем е, че кодът не е чист - труден за разбиране и отстраняване на грешки
+b) Основният проблем е, че повечето от подходите все още имат експоненциално време на изпълнение - не е подходящо за приложения в реалния свят, защото са много бавни
+в) Основният проблем е, че използва рекурсия на главата
 
-Question 2:
-What is the main idea behind meta-heuristics?
-a) It tries to find a good guess and not the exact solution - but at least the algorithm is fast
-b) It tries to find the exact solution with parallel computing
-c) It does not use recursion so it is faster
+Въпрос 2:
+Каква е основната идея зад мета-евристиката?
+а) Опитва се да намери добро предположение, а не точното решение - но поне алгоритъмът е бърз
+б) Опитва се да намери точното решение с паралелни изчисления
+в) Не използва рекурсия, така че е по-бърз
 
-Question 3:
-Select the meta-heuristic approach!
-a) Depth-first search
-b) Genetic algorithms
-c) Backtracking
+Въпрос 3:
+Изберете мета-евристичния подход!
+а) Търсене в дълбочина
+б) Генетични алгоритми
+в) Обратно проследяване
