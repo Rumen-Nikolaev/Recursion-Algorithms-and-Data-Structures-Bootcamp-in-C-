@@ -1,15 +1,15 @@
-Question 1:
-What does the cells in the dynamic programming table represent?
-a) The cells represent the results of the given subproblems
-b) The cells represent average of the final solution
+Въпрос 1:
+Какво представляват клетките в таблицата за динамично програмиране?
+а) Клетките представят резултатите от дадените подзадачи
+б) Клетките представляват средна стойност на крайния разтвор
 
-Question 2:
-Is it true - in the main - that dynamic programming is faster than brute-force approach?
-a) True
-b) False
+Въпрос 2:
+Вярно ли е - като цяло - че динамичното програмиране е по-бързо от подхода с груба сила?
+а) Вярно
+б) Невярно
 
-Question 3:
-What is the basic concept of dynamic programming as far as extra memory usage is concerned?
-a) Dynamic programming does not necessarily use extra memory
-b) Dynamic programming usually uses 0(1) constant additional memory
-c) Dynamic programming uses extra memory (approximately NxN additional memory) - it can reduce the running time complexity of algorithms by using additional memory (common trade-off in computer science)
+Въпрос 3:
+Каква е основната концепция на динамичното програмиране, що се отнася до използването на допълнителна памет?
+а) Динамичното програмиране не изисква непременно допълнителна памет
+b) Динамичното програмиране обикновено използва 0(1) постоянна допълнителна памет
+c) Динамичното програмиране използва допълнителна памет (приблизително NxN допълнителна памет) - може да намали сложността на времето за изпълнение на алгоритмите чрез използване на допълнителна памет (често срещан компромис в компютърните науки)
