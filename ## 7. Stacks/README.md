@@ -1,47 +1,43 @@
-# Stack Implementations
+# Реализации на стека
 
-This repository includes simple examples of how stacks work and how to implement them using arrays and linked lists. It also covers how stacks are used in memory management.
+Това хранилище включва прости примери за това как работят стековете и как да ги внедрите с помощта на масиви и свързани списъци. Той също така обхваща как се използват стекове в управлението на паметта.
 
-## Topics Covered
+## Обхванати теми
 
-1. [What are Stacks?](#what-are-stacks)
-2. [Stacks in Memory](#stacks-in-memory)
-3. [Stack with Arrays](#stack-with-arrays)
-4. [Stack with Linked Lists](#stack-with-linked-lists)
-5. [Quiz](#quiz)
+1. [Какво са стекове?](#what-are-stacks)
+2. [Стекове в паметта] (#stacks-in-memory)
+3. [Стек с масиви](#stack-with-arrays)
+4. [Натрупване със свързани списъци](#stack-with-linked-lists)
+5. [Тест](#викторина)
 
-## What are Stacks?
+## Какво са стекове?
 
-A stack is a data structure that works on a **Last In, First Out (LIFO)** rule. You add items to the top of the stack and remove the last item added first.
+Стекът е структура от данни, която работи по правило **Последен вход, първи изход (LIFO)**. Добавяте елементи в горната част на стека и първо премахвате последния добавен елемент.
 
-## Stacks in Memory
+## Стекове в паметта
 
-Stacks are important in memory management, especially for handling function calls and local variables. They help manage temporary data during program execution.
+Стековете са важни при управлението на паметта, особено за обработка на извиквания на функции и локални променливи. Те помагат при управлението на временни данни по време на изпълнение на програмата.
 
-## Stack with Arrays
+## Подреждане с масиви
 
-This section shows how to build a stack using arrays. Key operations include:
+Този раздел показва как да изградите стек с помощта на масиви. Ключовите операции включват:
 
-- **Push**: Add an item to the stack
-- **Pop**: Remove the top item from the stack
-- **Peek**: Check the top item without removing it
-- **isEmpty**: Check if the stack is empty
+- **Push**: Добавяне на елемент към стека
+- **Поп**: Премахнете горния елемент от стека
+- **Peek**: Проверете горния елемент, без да го премахвате
+- **isEmpty**: Проверете дали стекът е празен
 
-## Stack with Linked Lists
+## Подреждане със свързани списъци
 
-This section explains how to create a stack using linked lists. Linked lists allow you to build a stack that can grow and shrink as needed.
+Този раздел обяснява как да създадете стек с помощта на свързани списъци. Свързаните списъци ви позволяват да изградите стек, който може да расте и да се свива според нуждите.
 
-## Quiz
+## Викторина
 
-A short quiz is included to help you test what you’ve learned about stacks.
+Включен е кратък тест, за да ви помогне да проверите какво сте научили за стековете.
 
 ---
 
-### How to Use
+### Как се използва
 
-To run the examples, clone the repository and follow the instructions in the code files.
-
-```bash
-git clone https://github.com/yourusername/stack-implementations.git
-cd stack-implementations
+За да изпълните примерите, клонирайте хранилището и следвайте инструкциите в кодовите файлове.
 
